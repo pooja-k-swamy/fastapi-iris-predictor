@@ -1,4 +1,4 @@
-# FastAPI Model Serving Example
+# FastAPI Model Serving
 
 
 <div align="center">
